@@ -4,4 +4,4 @@ To create continuous 2D cosmic dust maps from discrete, scattered observations, 
 
 This project was completed with the help of Dr. Douglas Finkbeiner, Professor of Astronomy and Physics at Harvard University, with collaborators Stephen Slater and Kenneth Chen.
 
-Further explorations of alternative methods lead us to the triangle-based C1 interpolation method, as demonstrated in the [C1Interpolator.ipynb](https://github.com/ZizhengXu/Dustmap-interpolation-project/blob/master/C1Interpolator.ipynb).
+Further explorations of alternative methods lead us to the triangle-based C1 interpolation method, as demonstrated in the [C1Interpolator.ipynb](https://github.com/ZizhengXu/my_portfoilio/blob/master/Dustmap-interpolation-project-master/C1Interpolator.ipynb).
