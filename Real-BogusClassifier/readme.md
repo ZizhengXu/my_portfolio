@@ -9,3 +9,5 @@ Taking into account that we expect to observe ~200k objects in one single exposu
 it is impossible for us to manually examine whether a detection is real or bogus. Also, sometimes visual examination helps, 
 but does not solve the problem either, due to either huma error in such big volumes of data, and the cost of time. 
 We need an automatic solution to distinguish bogus detections from real ones.
+
+Full report including code can be seen in Real-Bogus-Classifiers.ipynb, and a presentation is also available [here](https://zizhengxu.github.io/my_portfolio/Real-BogusClassifier/Real-Bogus-Classifiers.pptx).
